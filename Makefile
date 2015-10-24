@@ -17,7 +17,7 @@ build:
 	docker build --rm -t salimane/salimane.github.io .
 
 run:
-	docker run --name salimane.github.io -v `pwd`:/usr/share/nginx/html -p 8181:80 -d salimane/salimane.github.io
+	docker run --name salimane.github.io -v `pwd`:/usr/share/nginx/html:ro -v `pwd`/nginx.conf:/etc/nginx/nginx.conf:ro -p 8181:80 -d salimane/salimane.github.io
 
 int:
 	docker exec -it salimane.github.io bash
