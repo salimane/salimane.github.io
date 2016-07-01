@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/salimane
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://salimane.com
+  * I am salimane (https://keybase.io/salimane) on keybase.
+  * I have a public key with fingerprint 3101 567D 7E8C 85AC 0A9A  B1AC 83FE 3620 0A5E EE80
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f425c673e1e411e21cfdeec3c521d6dd1a07b6ccf7397a25c864db82b786742b0a",
+            "fingerprint": "3101567d7e8c85ac0a9ab1ac83fe36200a5eee80",
+            "host": "keybase.io",
+            "key_id": "83fe36200a5eee80",
+            "kid": "0101f425c673e1e411e21cfdeec3c521d6dd1a07b6ccf7397a25c864db82b786742b0a",
+            "uid": "49706a060dbd478e16bdffc19765a019",
+            "username": "salimane"
+        },
+        "service": {
+            "hostname": "salimane.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467400500,
+    "expire_in": 157680000,
+    "prev": "2e8dd5516a1019fd910ef00e89f95195a9e9c7e3cac834eef07f9c681b2224ea",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QFVUYvkDMwBVSiLLJmnTJKLvdzu69+4WZXC8XmTBQEWhq5LYfZ2EDdtfd
+5QIqhekoQk4MEB8DMVcHaLpZMKTQiAwgODZ+fxSmKaFTTg4MSVF+wES7jP1p+tn5
+c+a87/M887zPeasiQyzWoJ1/EUut2ZNlQadus5Ys32D8NoSV+RLEuPPg/AXzeajp
+3jyRR+IRgAJUcGI4R5AOiEInikIM5QQeQs7B4RjKEzyPMoBkCY4TSAdNMgaWIpw8
+S2EsSRGkE2MBg9gQQZRyoKqooqQbsg5DFidInoQUR+EMBxiaYVGGoxwCdBAYAAwO
+IaSAQcyVNZNhmGMZDdpF2agZD++8vf/A/8++C+flnDQJCAYQgGd5J0lBlGB5QeBQ
+miRwBqC0CdSgKjEF0EBrTL5YwEgQKbUhRtUnctAM1pzkXwg7JxcYXEWVdZmT841O
+rq4rWrzJ1EsUE1oEWe9DES8rSryRo8HwQVUTZQmJRw0kp4umKuo0bAOAA2BDYLEi
+qtArmgicJCgAzKqiQp8hiUGK53H8TZRgjJhogadRAAUAIEULNI7SOENDmiOhgzN/
+xAmNHinQHEGhLIZhTmjmosEtkozE44ZPJsecSMyRGL1QNYa27g3e/oglyGoRQoPN
+DfPGlFmMY7e8IGpaIVRfFhQ1QZJ1Rjcm0OyyAiUlR7ELoqDn5sqqBo1k7BLUHy5J
+Iumh3BTucgMX7VqDutyUI8kz/+ku3OPxUMBiDV/0z1qfGVo4t2lfdfb6Dyc29M3c
+e25fzdmnel6b/ZgqabItaBkbYI6X7OUjvkl5t3nX8YrUupZz5YdqrNgTH01/iskC
+deRqXc0Wa8aBd1Iy98/0XYxcPyLepjvqH3z3+vit1CT+5PTaPy8szmv/tiNieHvt
+IhC4dG1GKbrxw+ge95g9eNfnYc/3YOdWLB/4uTZqxuL5JC6fLu8fHn/wZcyrjunm
+njY+w7K7z3Inj7gyaEP8DNp787eYN+6WPOPSV9Un3ZortSaHrh5dl/pWyMVGf/yO
+zX0jdMcvL248srhjwl6xwq8d7hKGOokd7a0RUc8eHTrhiU3JGM7tydqasHZDRfX4
+ZU/fpfugeigusDL09JWGi0teWhd9LLp2rnLuZCCu0yv1Tj0WdufXsazRqIXhDVz3
+rmWRR+uWnCrNvp+zZnUzH9jsY7vCZqbSS76XewaWW6Ym33s7sbqfbsutPPh+wfXk
+2NKqwz8mTgVZW2/0FJcl3Otnmzs9bZMLu7vvhvvVYw2tTyp+sTZOto1kph4vb2pe
+xod1RZ/dfWrnFz9N/NEu3wSni75yV27rJzsjmwbSvr5Qnfz0/swk22js7wkpG5vY
+3qlracijbnGBX3tl8rPOx68emE0PODZdXrU0ZOskf+KDevfBRjXtXkVOVpZwno5O
+OOQKdA1WbU+/3i21nEnyNRadj8ia1Ug9oBRze1b+DQ==
+=j3Pr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/salimane
+
+==================================================================
+
+
